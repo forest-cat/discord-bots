@@ -1,4 +1,3 @@
-README.md taken from https://github.com/Rapptz/discord.py
 discord.py
 ==========
 
@@ -11,6 +10,7 @@ discord.py
 .. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
    :target: https://pypi.python.org/pypi/discord.py
    :alt: PyPI supported Python versions
+
 
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
