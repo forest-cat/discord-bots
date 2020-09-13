@@ -1,3 +1,4 @@
+README.md taken from https://github.com/Rapptz/discord.py
 discord.py
 ==========
 
